@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Core\\Core.csproj": {}
+    "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Ecommerce-Asp-Angular\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Core\\Core.csproj": {
+    "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Ecommerce-Asp-Angular\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Ecommerce-Asp-Angular\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Core\\Core.csproj",
+        "projectPath": "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Ecommerce-Asp-Angular\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Hector Franz\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Core\\obj\\",
+        "outputPath": "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Ecommerce-Asp-Angular\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hector Franz\\AppData\\Roaming\\NuGet\\NuGet.Config",

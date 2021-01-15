@@ -7,3 +7,12 @@ D:\Desarrollo\Ecomerce_Core3.1_Angular\Core\obj\Debug\netcoreapp3.1\Core.Assembl
 D:\Desarrollo\Ecomerce_Core3.1_Angular\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 D:\Desarrollo\Ecomerce_Core3.1_Angular\Core\obj\Debug\netcoreapp3.1\Core.dll
 D:\Desarrollo\Ecomerce_Core3.1_Angular\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Desarrollo\Ecomerce_Core3.1_Angular\Ecommerce-Asp-Angular\Core\obj\Debug\netcoreapp3.1\Core.pdb

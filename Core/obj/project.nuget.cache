@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pdSHcTPV7XrLETPH26f2zb/0UcoabXTvCXSqbvHFBzZYAYJQWqm/wPfZiJMbhpjvKLDX6vbJERpxUmsxmmwyOg==",
+  "dgSpecHash": "pKPfDV9qrL7ABWs6xCq7LFkOrnsPzdB4Z2543mm2vDSHNBrcffaKoj5Mydd/AMqsVwtIiW0ZcocOlNIwLC/FGw==",
   "success": true,
-  "projectFilePath": "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Desarrollo\\Ecomerce_Core3.1_Angular\\Ecommerce-Asp-Angular\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
